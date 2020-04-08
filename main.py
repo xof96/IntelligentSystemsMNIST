@@ -70,6 +70,7 @@ cnn_input_shape = x_train.shape[1:]
 
 # %%
 # Scaling data
+# TODO: replace name of variables by the variables you want to scale
 x_train = x_train.astype('float32')
 x_valid = x_valid.astype('float32')
 x_test = x_test.astype('float32')
