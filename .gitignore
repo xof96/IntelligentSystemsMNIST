@@ -1,0 +1,4 @@
+# Add the path you do not want to push on git (i.e: files from IDE's and text editors)
+.idea
+
+venv
